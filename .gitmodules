@@ -1,0 +1,6 @@
+[submodule "mermaid-ascii"]
+	path = mermaid-ascii
+	url = ../mermaid-ascii
+[submodule "Homun-Lang"]
+	path = Homun-Lang
+	url = ../Homun-Lang
